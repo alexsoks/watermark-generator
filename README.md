@@ -1,1 +1,1 @@
-# watermark-generator
+# Watermark Generator Project
