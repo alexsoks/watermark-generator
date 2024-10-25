@@ -1,1 +1,1 @@
-# Watermark Generator Project
+# Watermark Generator App Project
